@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Traffic Violation Project**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **RUST**
 
 - 📫 How to reach me **varunjoshi12363@gmail.com**
 
