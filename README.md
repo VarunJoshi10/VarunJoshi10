@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunjoshi10&label=Profile%20views&color=0e75b6&style=flat" alt="varunjoshi10" /> </p>
 
 
-- 🔭 I’m currently working on **Integrating RUST with Flutter**
+- 🔭 I’m currently working on ** RUST Project **
 
 - 🌱 I’m currently learning **RUST**
 
