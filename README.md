@@ -26,6 +26,8 @@
 ## Blog Stats
 <a href="https://app.daily.dev/varunjoshi10"><img src="https://api.daily.dev/devcards/810a7f7483834c2f874440ef8b930f72.png?r=vwk" width="400" alt="Varun Joshi's Dev Card"/></a>
 
+[![VarunJoshi10's GitHub | Stats](https://stats.quine.sh/VarunJoshi10/github?theme=dark)](https://quine.sh)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunjoshi10&show_icons=true&locale=en&layout=compact&theme=radical" alt="varunjoshi10" /></p>
 
 ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunjoshi10&show_icons=true&theme=radical)
