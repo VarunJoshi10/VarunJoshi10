@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunjoshi10&label=Profile%20views&color=0e75b6&style=flat" alt="varunjoshi10" /> </p>
 
 
-- 🔭 I’m currently working on **Rust Project**
+- 🔭 I’m currently working on **Golang Project**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **varunjoshi12363@gmail.com**
 
