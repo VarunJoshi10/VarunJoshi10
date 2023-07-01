@@ -44,11 +44,11 @@
 
 [![VarunJoshi10's GitHub | Stats](https://stats.quine.sh/VarunJoshi10/github?theme=dark)](https://quine.sh)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunjoshi10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="varunjoshi10" /></p>
+![Varun's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=varunjoshi10&show_icons=true&locale=en&layout=compact&theme=algolia)
 
 ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunjoshi10&show_icons=true&theme=algolia)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunjoshi10&theme=algolia" alt="varunjoshi10" /></p>
+![Varun's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=varunjoshi10&theme=algolia)
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
