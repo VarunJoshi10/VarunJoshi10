@@ -52,9 +52,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7772](https://github.com/EddieHubCommunity/LinkFree/pull/7772) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🎉 Merged PR [#1](https://github.com/VarunJoshi10/Traffic-Signal-Violation-Detection-System-Using-Computer-Vision/pull/1) in [VarunJoshi10/Traffic-Signal-Violation-Detection-System-Using-Computer-Vision](https://github.com/VarunJoshi10/Traffic-Signal-Violation-Detection-System-Using-Computer-Vision)
-3. 🗣 Commented on [#68](https://github.com/amupedia2021/Project-Amupedia/issues/68#issuecomment-1564603632) in [amupedia2021/Project-Amupedia](https://github.com/amupedia2021/Project-Amupedia)
-4. 💪 Opened PR [#217](https://github.com/swapnilsparsh/DevEmpire/pull/217) in [swapnilsparsh/DevEmpire](https://github.com/swapnilsparsh/DevEmpire)
-5. 🗣 Commented on [#47](https://github.com/sahil-sagwekar2652/GitHub-Automation-scripts/pull/47#issuecomment-1559728267) in [sahil-sagwekar2652/GitHub-Automation-scripts](https://github.com/sahil-sagwekar2652/GitHub-Automation-scripts)
+1. 🎉 Merged PR [#1](https://github.com/VarunJoshi10/Datacom-Task2/pull/1) in [VarunJoshi10/Datacom-Task2](https://github.com/VarunJoshi10/Datacom-Task2)
+2. 💪 Opened PR [#1](https://github.com/VarunJoshi10/Datacom-Task2/pull/1) in [VarunJoshi10/Datacom-Task2](https://github.com/VarunJoshi10/Datacom-Task2)
+3. 💪 Opened PR [#7772](https://github.com/EddieHubCommunity/LinkFree/pull/7772) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🎉 Merged PR [#1](https://github.com/VarunJoshi10/Traffic-Signal-Violation-Detection-System-Using-Computer-Vision/pull/1) in [VarunJoshi10/Traffic-Signal-Violation-Detection-System-Using-Computer-Vision](https://github.com/VarunJoshi10/Traffic-Signal-Violation-Detection-System-Using-Computer-Vision)
+5. 🗣 Commented on [#68](https://github.com/amupedia2021/Project-Amupedia/issues/68#issuecomment-1564603632) in [amupedia2021/Project-Amupedia](https://github.com/amupedia2021/Project-Amupedia)
 <!--END_SECTION:activity-->
